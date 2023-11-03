@@ -149,6 +149,7 @@ td{
     #nav-bar{
         flex-direction: column;
         align-items: center;
+        position: relative;
     }
     #nav-bar>a{
         margin-bottom: 20px;
@@ -210,6 +211,7 @@ td{
     #nav-bar{
         flex-direction: column;
         align-items: center;
+        position: relative;
     }
     #nav-bar>a{
         margin-bottom: 20px;
